@@ -10,7 +10,8 @@ this project has 3 phase:
 
 In this phase, an audio file is partitioned into 0.11 sec periods. Then the same algorithm as the previous method will be applied to each time stamp. There may be some consequent time stamp containing the same key; this does not indicate any new key. Furthermore, between each successive key, there should be at least one other key or empty.
     
-    For more details see [here](https://github.com/mahsaghn/DTMF_Signal_Detector/blob/master/phase2/phase2_fa.pdf).
+For more details see [here](https://github.com/mahsaghn/DTMF_Signal_Detector/blob/master/phase2/phase2_fa.pdf).
+
 3. detect keis pressed recording signal:
     
     For more details see [here](https://github.com/mahsaghn/DTMF_Signal_Detector/blob/master/phase3/DTMF_phase3.pdf).
