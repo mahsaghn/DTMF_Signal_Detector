@@ -1,4 +1,4 @@
-# DTMF Sigran Decoder
+# DTMF Signal Decoder
 detect key pressed by signal analysis
 this project has 3 phase:
 
